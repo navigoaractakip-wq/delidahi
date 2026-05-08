@@ -1,0 +1,91 @@
+uploads = []
+
+[[generated]]
+id = "3bLLgKbxH8275hZCGk7eW"
+uri = "file://artifacts/quiz-app/assets/images/icon.png"
+type = "image"
+title = "quiz_app_icon"
+
+[[generated]]
+id = "AtdoZvhG7P6jdAuhedj4J"
+uri = "file://artifacts/quiz-app/assets/images/category_science.png"
+type = "image"
+title = "science_category"
+
+[[generated]]
+id = "tGQkTEkq4JWGH8ZQkvN-_"
+uri = "file://artifacts/quiz-app/assets/images/category_geography.png"
+type = "image"
+title = "geography_category"
+
+[[generated]]
+id = "UP64gWowOkuattf5MflDk"
+uri = "file://artifacts/quiz-app/assets/images/category_general.png"
+type = "image"
+title = "general_knowledge_category"
+
+[[generated]]
+id = "WgPvZdU7LwHwGJ7oD4Ubb"
+uri = "file://artifacts/quiz-app/assets/images/category_health.png"
+type = "image"
+title = "health_category"
+
+[[generated]]
+id = "jUkzOYKFdUJWFykHRhv-3"
+uri = "file://artifacts/quiz-app/assets/images/category_religion.png"
+type = "image"
+title = "religion_category"
+
+[[generated]]
+id = "k6LkTDFmT9FYlgy73o3r7"
+uri = "file://artifacts/quiz-app/assets/images/category_history.png"
+type = "image"
+title = "history_category"
+
+[[generated]]
+id = "VanXWmicbfgVHuoRdQoor"
+uri = "file://artifacts/quiz-app/assets/images/category_math.png"
+type = "image"
+title = "math_category"
+
+[[generated]]
+id = "d5AlcZHiXFB_MUqcgRWzY"
+uri = "file://artifacts/quiz-app/assets/images/category_sports.png"
+type = "image"
+title = "sports_category"
+
+[[generated]]
+id = "TkRH_rmJxHrfB799b7Pb5"
+uri = "file://artifacts/quiz-app/assets/images/category_cinema.png"
+type = "image"
+title = "cinema_category"
+
+[[outputs]]
+id = "6BKkQzeWKuRbVMqBRAXTT"
+uri = "file://gizlilik-politikasi.tar.gz"
+type = "unspecified"
+title = "Gizlilik Politikası — şablon (HTML)"
+
+[[outputs]]
+id = "TxrbYkwpxBBktpGolPdfY"
+uri = "file://delidahi-privacy.tar.gz"
+type = "unspecified"
+title = "index.html (GitHub Pages için hazır)"
+
+[[outputs]]
+id = "o3yWqXKZ4kd-0YIJH-rWz"
+uri = "file://privacy-policy.md"
+type = "text"
+title = "Deli Dahi — Gizlilik Politikası"
+
+[[outputs]]
+id = "siAuQ14RBgQA9nTLH0Zq3"
+uri = "file://privacy-policy.zip"
+type = "unspecified"
+title = "Deli Dahi — Gizlilik Politikası (HTML)"
+
+[[outputs]]
+id = "SqBowRxkTDi893IFtGQ6Y"
+uri = "file://artifacts/quiz-app/assets/images/logo.png"
+type = "image"
+title = "Deli Dahi — Logo"
